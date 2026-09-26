@@ -1,0 +1,5 @@
+{
+  "name": "aicom-case-forge",
+  "version": "1.0.0",
+  "description": "AICom 测试用例生成技能：按 AT 指令集批量生成符合引擎规范的 YAML 测试用例"
+}
