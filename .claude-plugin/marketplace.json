@@ -1,0 +1,13 @@
+{
+  "name": "AICom-SKILLS-REPO",
+  "owner": {
+    "name": "mengxiangrui1211"
+  },
+  "plugins": [
+    {
+      "name": "aicom-case-forge",
+      "source": "./plugins/aicom-case-forge",
+      "description": "AICom 测试用例生成技能：按 AT 指令集批量生成符合引擎规范的 YAML 测试用例"
+    }
+  ]
+}
