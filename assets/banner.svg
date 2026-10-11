@@ -1,0 +1,43 @@
+<svg viewBox="0 0 1360 580" width="1360" height="580" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>AICom SKILLS REPO</title>
+  <desc>AICom 技能仓库横幅：Claude Code Plugin Marketplace，AT 指令集测试用例自动生成</desc>
+  <defs>
+    <pattern id="dotgrid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <circle cx="26" cy="26" r="2" fill="#1c2330"/>
+    </pattern>
+    <clipPath id="termClip"><rect x="740" y="96" width="540" height="388" rx="20"/></clipPath>
+  </defs>
+  <rect x="0" y="0" width="1360" height="580" fill="#0d1117"/>
+  <rect x="0" y="0" width="1360" height="580" fill="url(#dotgrid)"/>
+  <rect x="0" y="576" width="1360" height="4" fill="#3fb950"/>
+
+  <text x="80" y="152" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#8b949e" letter-spacing="4">CLAUDE CODE · PLUGIN MARKETPLACE</text>
+  <text x="80" y="260" font-family="Consolas, 'Courier New', monospace" font-size="88" font-weight="700" fill="#3fb950">AICom</text>
+  <text x="80" y="336" font-family="Consolas, 'Courier New', monospace" font-size="56" font-weight="700" fill="#e6edf3" letter-spacing="2">SKILLS REPO</text>
+  <text x="80" y="400" font-family="'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="26" fill="#8b949e">AT 指令集 · 测试用例自动生成</text>
+
+  <rect x="80" y="440" width="104" height="44" rx="22" fill="none" stroke="#30363d" stroke-width="2"/>
+  <text x="132" y="470" text-anchor="middle" font-family="Consolas, monospace" font-size="22" fill="#8b949e">v1.0.0</text>
+  <rect x="200" y="440" width="112" height="44" rx="22" fill="none" stroke="#30363d" stroke-width="2"/>
+  <text x="256" y="470" text-anchor="middle" font-family="Consolas, monospace" font-size="22" fill="#8b949e">YAML</text>
+  <rect x="328" y="440" width="280" height="44" rx="22" fill="none" stroke="#3fb950" stroke-width="2"/>
+  <text x="468" y="470" text-anchor="middle" font-family="Consolas, monospace" font-size="22" fill="#3fb950">aicom-case-forge</text>
+
+  <rect x="740" y="96" width="540" height="388" rx="20" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <rect x="740" y="96" width="540" height="56" rx="20" fill="#1c2431"/>
+  <rect x="740" y="132" width="540" height="20" fill="#1c2431"/>
+  <circle cx="776" cy="124" r="9" fill="#f85149"/>
+  <circle cx="812" cy="124" r="9" fill="#d29922"/>
+  <circle cx="848" cy="124" r="9" fill="#3fb950"/>
+  <text x="1010" y="132" text-anchor="middle" font-family="Consolas, monospace" font-size="22" fill="#8b949e">case-forge — zsh</text>
+
+  <g clip-path="url(#termClip)" font-family="Consolas, 'Courier New', monospace" font-size="23">
+    <text x="772" y="200" fill="#8b949e"><tspan fill="#3fb950">$</tspan> /plugin marketplace add \</text>
+    <text x="772" y="244" fill="#8b949e">  mengxiangrui1211/AICom-SKILLS-REPO</text>
+    <text x="772" y="288" fill="#8b949e"><tspan fill="#3fb950">$</tspan> /plugin install aicom-case-forge</text>
+    <text x="772" y="348" fill="#e6edf3">AT+CASEGEN="POWER_ON_SUITE"</text>
+    <text x="772" y="392" fill="#8b949e">generating 24 test cases ...</text>
+    <text x="772" y="448" font-size="30" font-weight="700" fill="#3fb950">OK</text>
+    <text x="836" y="448" fill="#8b949e">cases/001.yaml ~ 024.yaml</text>
+  </g>
+</svg>
